@@ -2,8 +2,8 @@
 layout: post
 title:  "Webserver开发日记-版本1"
 date:   2018-06-25 11:26:00 +0800
-categories: development diary
-tags: development diary c++ epoll threadpoll 
+categories: development-diary
+tags: development-diary c++ epoll threadpoll 
 author: wwq
 ---
 
